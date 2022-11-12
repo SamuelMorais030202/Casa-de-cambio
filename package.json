@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "vite --open",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite --open"
   },
   "repository": {
     "type": "git",
@@ -20,6 +19,7 @@
   },
   "homepage": "https://github.com/SamuelMorais030202/Casa-de-cambio#readme",
   "dependencies": {
+    "sweetalert2": "^11.6.8",
     "vite": "^3.2.3"
   }
 }
